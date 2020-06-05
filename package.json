@@ -1,0 +1,16 @@
+{
+    "name": "easydlbot",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "shishcat.dp@gmail.com",
+    "license": "WTFPL",
+    "dependencies": {
+        "node-fetch": "^2.6.0",
+        "telegraf": "^3.38.0",
+        "telegraf-ratelimit": "^2.0.0"
+    }
+}
