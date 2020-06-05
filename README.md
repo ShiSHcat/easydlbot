@@ -10,11 +10,15 @@ NOTE: you need to have git installed.
 git clone https://github.com/ShiSHcat/dwgrambot.git
 mv config.example.json config.json
 ```
-Edit config.json with the right data.
+(if you don't have git you can just [download the zip](https://github.com/ShiSHcat/dwgrambot/archive/master.zip), extract it and rename config.example.json to config.json)
 ## Install on Windows
 NOTE: you need to have git installed.
 ```bash
 git clone https://github.com/ShiSHcat/dwgrambot.git
 move config.example.json config.json
 ```
+(if you don't have git you can just [download the zip](https://github.com/ShiSHcat/dwgrambot/archive/master.zip), extract it and rename config.example.json to config.json)
+## Configuration
 Edit config.json with the right data.
+## Start
+Start with node index.js .
